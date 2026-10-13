@@ -42,7 +42,7 @@ We believe great projects are built by people who learn, collaborate, and move f
     </td>
   </tr>
 </table>
----
+
 
 ## 🎯 Our Goals
 
