@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# 🎓 AI School
 
 ### A place to learn, build, and grow together.
@@ -76,3 +77,19 @@ This project is licensed under the [MIT License](LICENSE).
   <strong>AI School</strong><br/>
   <em>Learn. Create. Collaborate.</em>
 </p>
+=======
+﻿# AI School
+
+An educational platform built to support learning.
+
+## Project Status
+Early development.
+
+## Goals
+- Build an educational platform.
+- Organize learning resources.
+- Create a simple and accessible learning experience.
+
+## License
+MIT
+>>>>>>> 5097eb96cc431904643ee21ebf76ad2a310775a0
