@@ -78,7 +78,7 @@ This project is licensed under the [MIT License](LICENSE).
 </p>
 
 
-﻿# AI School
+## AI School
 
 An educational platform built to support learning.
 
