@@ -18,18 +18,30 @@ AI School is currently in its initial stage. More details about its features, ar
 ## 👥 Meet the Team
 
 We believe great projects are built by people who learn, collaborate, and move forward together.
+## 👥 Our Team
 
-<a href="https://github.com/knowmebyfarzad">
-  <img src="https://github.com/knowmebyfarzad.png" width="100" alt="Farzad Mahjour's GitHub profile" />
-</a>
-<a href="https://github.com/iliaxp">
-  <img src="https://github.com/iliaxp.png" width="100" alt="Mahdi Zare's GitHub profile" />
-</a>
-
-| Member             | GitHub                                               | Telegram                                       | Role                |
-| ------------------ | ---------------------------------------------------- | ---------------------------------------------- | ------------------- |
-| **Farzad Mahjour** | [@knowmebyfarzad](https://github.com/knowmebyfarzad) | [@knowmebyfarzad](https://t.me/knowmebyfarzad) | Project Contributor |
-| **Mahdi Zare**     | [@iliaxp](https://github.com/iliaxp)                 | [@ilidark](https://t.me/ilidark)               | Project Contributor |
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/knowmebyfarzad">
+        <img src="https://github.com/knowmebyfarzad.png" width="120" alt="Farzad Mahjour" />
+        <br />
+        <strong>Farzad Mahjour</strong>
+      </a>
+      <br />
+      <a href="https://t.me/knowmebyfarzad">Telegram</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/iliaxp">
+        <img src="https://github.com/iliaxp.png" width="120" alt="Mahdi Zare" />
+        <br />
+        <strong>Mahdi Zare</strong>
+      </a>
+      <br />
+      <a href="https://t.me/ilidark">Telegram</a>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🎯 Our Goals
