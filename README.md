@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ﻿# 🎓 AI School
 
 ### A place to learn, build, and grow together.
